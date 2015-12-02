@@ -2,6 +2,7 @@
 Script que atualiza servidores e documenta os processos.
 
 Fluxo
+
   -Copia o arquivo do servidor (exemplo de servidor de homologação web)remoto e salva em estação local ;
   
   -Copia o mesmo arquivo horiginal e faz backup (exemplo de servidor de produção web) ; 
