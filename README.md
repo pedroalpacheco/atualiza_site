@@ -11,3 +11,16 @@ Fluxo
   
   -Os arquivos de backup e auditoria fica armazenados na pasta "historico".
   
+=====================================================================================================================
+
+Script that updates servers and document the processes.
+
+Flow
+
+-Copy the file from the server (example of a web server approval) Remote and saved to local station;
+
+-copy The same horiginal file and backs up (eg web production server);
+
+-Sends New file to the server in its directory (eg web production server);
+
+-The Backup and audit files is stored in the "historical" folder.
